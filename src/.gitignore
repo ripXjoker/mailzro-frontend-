@@ -1,0 +1,17 @@
+# Node modules
+node_modules
+.DS_Store
+
+# Build artifacts
+build
+dist
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Local development artifacts
+.parcel-cache/
+.vscode/
